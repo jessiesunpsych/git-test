@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "# This is going to be the main file",
+    "contents" : "# This is going to be the main file\n# changing the file",
     "created" : 1509411322306.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4110261090",
+    "hash" : "2021599053",
     "id" : "4A17A8CF",
-    "lastKnownWriteTime" : 1509411992,
-    "last_content_update" : 1509411992993,
+    "lastKnownWriteTime" : 1509415037,
+    "last_content_update" : 1509415037766,
     "path" : "~/NewDir/main.R",
     "project_path" : "main.R",
     "properties" : {
